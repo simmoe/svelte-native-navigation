@@ -1,0 +1,3 @@
+<flexboxLayout class='flex-centered'>
+    <label class='h1 text-center' text='page 1' />
+</flexboxLayout>
